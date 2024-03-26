@@ -1,0 +1,6 @@
+scrapfly-sdk
+beautifulsoup4
+# sqlite3
+loguru
+discord.py[voice]
+python-dotenv
